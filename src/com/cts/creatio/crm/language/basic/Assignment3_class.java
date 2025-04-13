@@ -9,7 +9,6 @@ public class Assignment3_class {
 	int id2 = 1235;
 	int id3 = 1236;
 	
+		
+	}
 
-	
-
-}
